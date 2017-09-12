@@ -1,0 +1,6 @@
+{
+  "name": "Visitor Info",
+  "description": "Track who is visiting your website",
+  "repository": "https://github.com/JohnCoatesOSS/VisitorInfo",
+  "keywords": ["ruby", "sinatra"]
+}
